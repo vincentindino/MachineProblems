@@ -1,19 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>This website has a side menu bar</title>
+	<title>Webpage</title>
 
 
 </head>
-<body bgcol="#99999">
+<body bgcolor="red">
+</body>
+</html>
+<center><img src="dota2.png"></center>
+
+
 <div align="center">
 <table bgcolor="#FFFFFF" width="900" cellspacing="0" cellpadding="0" style="padding-top: 10px; padding-bottom: 10px;">
 
 
 </head>
-<body bgcol="#99999">
+<body bgcol="#black">
 <div align="center">
-<table bgcolor="#FFFFFF" width="900" cellspacing="10"cellpadding="10"style="padding-top: 10px; padding-bottom: 10px;">
+<table bgcolor="#black" width="400" cellspacing="0"cellpadding="0"style="padding-top: 10px; padding-bottom: 10px;">
 
 
 <tr>
