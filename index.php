@@ -5,20 +5,20 @@
 
 
 </head>
-<body bgcolor="red">
+<body bgcolor="white">
 </body>
 </html>
 <center><img src="dota2.png"></center>
 
 
 <div align="center">
-<table bgcolor="#FFFFFF" width="900" cellspacing="0" cellpadding="0" style="padding-top: 10px; padding-bottom: 10px;">
+<table width="900" cellspacing="0" cellpadding="0" style="padding-top: 10px; padding-bottom: 10px;">
 
 
 </head>
-<body bgcol="#black">
+
 <div align="center">
-<table bgcolor="#black" width="400" cellspacing="0"cellpadding="0"style="padding-top: 10px; padding-bottom: 10px;">
+<table  width="400" cellspacing="0"cellpadding="0"style="padding-top: 10px; padding-bottom: 10px;">
 
 
 <tr>
